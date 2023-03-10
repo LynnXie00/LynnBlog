@@ -1,0 +1,924 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://lynnxie00.github.io/LynnBlog/Tutorials/Technology/%E4%BB%8B%E7%BB%8DObsidian/">
+      
+      
+        <link rel="prev" href="../../../Readings/Spirituality/TheRoadLessTraveled/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.2">
+    
+    
+      
+        <title>介绍Obsidian - Lynn's Blog</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.7bf56d0a.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.a0c5b2b5.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#obsidian" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Lynn&#39;s Blog" class="md-header__button md-logo" aria-label="Lynn's Blog" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Lynn's Blog
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              介绍Obsidian
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+            </label>
+          
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Lynn&#39;s Blog" class="md-nav__button md-logo" aria-label="Lynn's Blog" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Lynn's Blog
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        Table of Content
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Life
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Life
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Life/LeavingTheChurch/" class="md-nav__link">
+        Leaving the Church
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Life/WaterColorLog/" class="md-nav__link">
+        A log for my watercolor paintings
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Life/%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E8%B0%A3%E8%A8%80%E7%B3%BB%E5%88%97/" class="md-nav__link">
+        俄乌战争谣言系列
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Life/%E6%8A%91%E9%83%81%E7%97%87%E8%BF%87%E7%A8%8B/" class="md-nav__link">
+        抑郁症过程
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Readings
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Readings
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+          Spirituality
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          Spirituality
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Readings/Spirituality/CombatingTheCultMindControl/" class="md-nav__link">
+        Cult or not? - Reading <Combating the Cult Mind Control>
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Readings/Spirituality/GoodLand/" class="md-nav__link">
+        Where's God in the God's Land - Reading <God Land>
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Readings/Spirituality/TheHeartofChristianity/" class="md-nav__link">
+        A Shift in Faith Paradigm - Reading <The Heart of Christianity>
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Readings/Spirituality/TheRoadLessTraveled/" class="md-nav__link">
+        The Narrow Door, the Path Less Followed - Reading <The Road Less Traveled>
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Tutorials
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Tutorials
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+          Technology
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_4_1">
+          <span class="md-nav__icon md-icon"></span>
+          Technology
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          介绍Obsidian
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        介绍Obsidian
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    文档相互连接
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    初始设置
+  </a>
+  
+    <nav class="md-nav" aria-label="初始设置">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    设置外貌
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community-plugins" class="md-nav__link">
+    安装插件 community plugins
+  </a>
+  
+    <nav class="md-nav" aria-label="安装插件 community plugins">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-cmenu" class="md-nav__link">
+    1. cMenu
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-highlightr" class="md-nav__link">
+    2. Highlightr
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-calendar-periodic-notes" class="md-nav__link">
+    3. Calendar + Periodic Notes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-telegraph-publish-imgur-plugin" class="md-nav__link">
+    4. Telegraph Publish + Imgur Plugin
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-pandoc" class="md-nav__link">
+    5. Pandoc
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-kindle-highlights" class="md-nav__link">
+    6. Kindle Highlights
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#command-palette" class="md-nav__link">
+    通过Command Palette 使用插件
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    书写模式
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    文档相互连接
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    初始设置
+  </a>
+  
+    <nav class="md-nav" aria-label="初始设置">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    设置外貌
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community-plugins" class="md-nav__link">
+    安装插件 community plugins
+  </a>
+  
+    <nav class="md-nav" aria-label="安装插件 community plugins">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-cmenu" class="md-nav__link">
+    1. cMenu
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-highlightr" class="md-nav__link">
+    2. Highlightr
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-calendar-periodic-notes" class="md-nav__link">
+    3. Calendar + Periodic Notes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-telegraph-publish-imgur-plugin" class="md-nav__link">
+    4. Telegraph Publish + Imgur Plugin
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-pandoc" class="md-nav__link">
+    5. Pandoc
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-kindle-highlights" class="md-nav__link">
+    6. Kindle Highlights
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#command-palette" class="md-nav__link">
+    通过Command Palette 使用插件
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    书写模式
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="obsidian">介绍Obsidian<a class="headerlink" href="#obsidian" title="Permanent link">&para;</a></h1>
+<p>Obsidian是一款笔记软件，它打出的口号是“你的第二个大脑”。实际上它和一般笔记软件（例如Onenote, Evernote)不同的地方，我认为是三点：
+1.  能方便地支持文档的相互链接
+2. 支持来自用户群的开源插件
+3. 以Markdown为主要编写模式</p>
+<p>所以这款软件和一般的笔记软件相比，有着相对较高的学习门槛。但是一旦你习惯了它，这款软件能极大地满足你的控制欲、管理欲（就是所谓的知识管理）和输出欲。如果你愿意上手尝试一下，可以跟着我这篇文章来试用看看。 （注：由于我更习惯英文界面，所以下面的软件截图皆为英文版。）</p>
+<hr />
+<h2 id="_1">文档相互连接<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<p>Obsidian这个软件的最大特色，就是它提供了一种新的构建笔记网络的方式。以往我们的笔记可能是以树状按照类别分布，或者按照tag归类。Obsidian在两者都有的基础上增加了一种新的连接文档的方式，就是通过文档内链。</p>
+<p>你在书写当前笔记的时候，发现当前的内容可以和从前的某个笔记相联系，你就可以输入两个英文状态的书名号，Obsidian会自动打开一个界面让你链接之前的笔记。如下图gif </p>
+<p><img alt="" src="https://i.imgur.com/U9ZwXSz.gif" /></p>
+<p>或者在你书写的过程中，你有一些关于某个概念的额外的想法需要将来补充，你可以选中这个概念，点击英文状态的书名号两次，选中的文本就会变成一个链接。你下次点开的时候就会自动创建一个以该文本为名称的笔记，如下图。</p>
+<p><img alt="" src="https://i.imgur.com/6Ce6ZIm.gif" /></p>
+<p>文本之间的联系可以通过所谓的graph view来图像化。我自己是不太用到这个功能……但是很多人好像很喜欢
+<img alt="" src="https://i.imgur.com/GOA8Twz.png" /></p>
+<p>前文说了Obsidian也是有tag支持的。这个软件的tag是精确到段落。你可以通过搜索功能查找到提及相应tag的文本段落。</p>
+<h2 id="_2">初始设置<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<p>在下载安装完了这款软件以后，你首先要知道它的所有文件都存放在本地，而那个根目录文件夹被称为vault。 打开一个vault就会打开一个Obsidian窗口。如果你想要移动整个vault，找到那个文件夹就行。
+<img alt="|500" src="https://i.imgur.com/B14VpSy.png" /></p>
+<p>你可以去setting里打开一些基础设置，比方说，Editor -&gt; behavior 下面有一项 spell check，如果你和我一样是不擅长拼写英文的人……</p>
+<p>还有可以创建一个文件夹专门用来放attachments，因为插入的图片都会自动保存成attachment</p>
+<p><img alt="" src="https://i.imgur.com/UA6YSeM.png" /></p>
+<p>还有可以在core plugin里面打开file recovery，这样即使电脑出了什么故障，也可以取回备份……</p>
+<h3 id="_3">设置外貌<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
+<p>如果你像我一样是严重的软件颜控党，那就跟着我来看看如何把Obsidian设置成你喜欢的样子。
+首先许多用户已经上传了各种漂亮的主题。 settings -&gt; appearance -&gt; themes (manage) 就可以打开。</p>
+<p><img alt="|500" src="https://i.imgur.com/7hWDMLo.png" /></p>
+<p>我尝试了n多种以后现在在用的是自己调整过的Shimmering Focus 主题。这个主题的特色是极致简洁……隐藏了很多按钮和栏目。一般每个主题都有light和dark两种模式，看你喜欢~ 在此推荐下载另一款插件Style Settings，可以让你进一步调整主题的一些细节（比方说颜色，还有是否显示某些内容等等）。Shimmering Focus这款主题是对Style Settings 插件非常友好的，我通过这个插件恢复了某些被shimmering focus隐藏的常用按钮。</p>
+<p>这里就要提到下面要涉及的另一个主题：安装插件</p>
+<h2 id="community-plugins">安装插件 community plugins<a class="headerlink" href="#community-plugins" title="Permanent link">&para;</a></h2>
+<p>在Settings -&gt; Community plugins 可以安装一些用户上传的插件。安装了插件以后要确保这些插件是enabed的了，不然无法使用。</p>
+<p>除了Style settings以外，我在这里推荐几款能够让你迅速上手这个软件的插件。</p>
+<h3 id="1-cmenu">1. cMenu<a class="headerlink" href="#1-cmenu" title="Permanent link">&para;</a></h3>
+<p>如果你不喜欢使用命令，不擅长编程，这是你必须安装的插件。Obsidian的很多功能都需要去Command Palette输入命令。而cMenu的功能就是在你平时的界面上加入一个浮动菜单，让你能把常用的命令变成按钮。</p>
+<p>安装了新的插件以后可以在设置界面的下方找到插件的设置。</p>
+<p><img alt="|200" src="https://i.imgur.com/WeL0bBV.png" /></p>
+<p>首先要把append method调整成body，这样才能在一般界面出现浮窗。</p>
+<p><img alt="" src="https://i.imgur.com/YMbsITf.png" /></p>
+<p>可以点击删除键来删除既有的按钮；点击+按钮添加你心仪的命令，有时候在你选择了命令以后会跳出一个界面让你选择一个对应的icon. </p>
+<p><img alt="" src="https://i.imgur.com/2KAu1yR.png" /></p>
+<p>下图是我的cMenu浮窗，我添加了我常用的功能，包括插入代码block, highlight当前文字，插入当前时间，插入引用，插入链接等等。</p>
+<p><img alt="|300" src="https://i.imgur.com/hOSCRB6.png" /></p>
+<h3 id="2-highlightr">2. Highlightr<a class="headerlink" href="#2-highlightr" title="Permanent link">&para;</a></h3>
+<p>如题所示，就是一个highlighter，高亮文字。可以自定义高亮模式、高亮颜色等等。</p>
+<h3 id="3-calendar-periodic-notes">3. Calendar + Periodic Notes<a class="headerlink" href="#3-calendar-periodic-notes" title="Permanent link">&para;</a></h3>
+<p>如果你喜欢写日记、周记等等，这两个插件是必备的。Calendar插件会在界面右边显示一个日历区域，你可以点击任意一天创建那天的note，并且在每天下方通过点数显示你写作的长度。 而你可以通过Periodic Notes插件，创建日记、周记、月记等等。如果你两个插件都安装了，请在Calendar插件的设置里打开show week number，这样你可以通过点击week number 创建周记了。</p>
+<p><img alt="|300" src="https://i.imgur.com/0crqFgE.png" /></p>
+<p>你可以同时设置你的Periodic Notes的存放位置和模板。比方说我会在每天的日记上记录我的睡眠、心情、咖啡因、习惯、做了什么事等等。</p>
+<p><img alt="" src="https://i.imgur.com/8XK50MA.png" /></p>
+<h3 id="4-telegraph-publish-imgur-plugin">4. Telegraph Publish + Imgur Plugin<a class="headerlink" href="#4-telegraph-publish-imgur-plugin" title="Permanent link">&para;</a></h3>
+<p>Telegraph Publish这个插件可以让你在Telegraph上面分享你的笔记。但是如果想要笔记中的图片正常显示的话，需要设置图床插件把本地图片上传，我用的是Imgur。</p>
+<p>当然我发现这两个插件的配合还是有一点点小bug, 偶尔图片会错位，要去telegraph上手动修改一下……不过这已经是我用过的最好的方案了……</p>
+<h3 id="5-pandoc">5. Pandoc<a class="headerlink" href="#5-pandoc" title="Permanent link">&para;</a></h3>
+<p>这是一个可以把你的notes转换为其他各种格式的插件。你需要同时在电脑上安装Pandoc软件来使用它的全部功能。
+https://pandoc.org/installing.html</p>
+<h3 id="6-kindle-highlights">6. Kindle Highlights<a class="headerlink" href="#6-kindle-highlights" title="Permanent link">&para;</a></h3>
+<p>如果你使用Kindle阅读的话，这个插件可以自动同步你在kindle store购买的图书的笔记和highlights。如果你用kindle阅读个人文档，也可以手动同步my clippings.txt 里面的notes和highlights. 但是这个插件的设置我没太搞懂，希望有大佬教我……</p>
+<h2 id="command-palette">通过Command Palette 使用插件<a class="headerlink" href="#command-palette" title="Permanent link">&para;</a></h2>
+<p>在界面左侧找到Command Palette按钮，或者按control +p （Mac 用户应该是command + P) 就可以打开Command Palette， 通常你只要输入插件的名称就会跳出来该插件的所有命令。比方说上文提到过的Pandoc。 </p>
+<p><img alt="|500" src="https://i.imgur.com/YHgWlg0.png" /></p>
+<p>如果你真的常用一个命令，又不喜欢每次都打开Command Palette，可以按照前文所述的，把它加入cMenu浮窗按钮里。</p>
+<h2 id="_4">书写模式<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<p>Obsidian的书写模式是Markdown, 默认模式是editing, 并且live preview是打开的，所以你使用Markdown书写以后一回车，就会给你一个preview，变成漂亮的样子。对于没有编程经验的用户来说，使用Markdown乍一看起来很吓人，但是你其实只需要知道以下几点：
+1. 分级标题通过“#[空格]标题 ”来实现。 几个“#”就是几级标题。
+2. 标签可以通过“#标签”来实现，没有空格。打了标签的那一段在将来可以非常快速的被搜索到
+3. “-[空格]” 会自动变成list , ”[数字].“ 会变成numbered list, "---[回车]" 就会变成分割线 剩下的其他格式可以通过cMenu上的按钮来实现
+4. 插入图片可以通过复制粘贴、拖入图片文件等方式来实现。插入的图片在source code模式下是一行代码。不能直接编辑大小，但是你可以通过在.jpg后面加上 |width 来让图片变小，如图 </p>
+<p><img alt="|400" src="https://i.imgur.com/HuFgTUh.png" /></p>
+<ol>
+<li>
+<p>你可以通过iframe 来嵌入任何网页，使用以下语句……这个功能对于不熟悉html的用户来说可能有点用不到……
+<img alt="|400" src="https://i.imgur.com/Yyi3fEW.png" /></p>
+</li>
+<li>
+<p>其他我个人常用功能包括</p>
+</li>
+<li>
+<p>code blocks, 其实就是"点点点programming language [回车] 点点点“，这个点是~按钮 下面的点，例如：
+   <img alt="|500" src="https://i.imgur.com/Yez52F2.png" /></p>
+</li>
+<li>
+<p>callout （可以是很多call out， 像是quote, info, note, 等等，如题用法见 https://help.obsidian.md/How+to/Use+callouts）</p>
+</li>
+</ol>
+<p><img alt="|500" src="https://i.imgur.com/gHg8XoT.png" /></p>
+<p>更多详细的markdown formatting可以参考这篇文章 https://help.obsidian.md/How+to/Format+your+notes</p>
+<hr />
+<p>好啦，以上就是Obsidian这个软件的安利文章，如果你开始用这个软件了，可以和我讨论哦~ </p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.fc8c2696.min.js"></script>
+      
+    
+  </body>
+</html>

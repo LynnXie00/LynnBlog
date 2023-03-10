@@ -1,5 +1,7 @@
 site_name: Lynn's Blog
-
+site_url: https://lynnxie00.github.io/LynnBlog/
+nav:
+    - Home: index.md
 theme:
     name: simple-blog
 

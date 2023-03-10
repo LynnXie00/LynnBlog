@@ -1,5 +1,5 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
+site_name: Lynn's Blogs # Change this to your site name
+site_description: Random thoughts and writings.
 site_url: https://lynnxie00.github.io/LynnBlog/ # Change this to your site URL
 
 theme:
@@ -8,16 +8,16 @@ theme:
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
-        text: Ubuntu
-        code: Ubuntu Mono
+        text: Noto Sans Display 
+        code: Playfair Display
     language: en
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: brown
+      accent: deep orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -25,7 +25,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/toggle-switch

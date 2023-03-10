@@ -19,15 +19,21 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
+    strategy:
+      # You can use PyPy versions in python-version.
+      # For example, pypy-2.7 and pypy-3.8
+      matrix:
+        python-version: ["2.7", "3.7", "3.8", "3.9", "3.10"]
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v3
+      - uses: actions/setup-python@v4
         with:
-          python-version: 3.x
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-roamlinks-plugin
-      - run: pip install mkdocs-mermaid2-plugin
+          python-version: ${{ matrix.python-version }}
+      - run: py -m pip install mkdocs
+      - run: py -m pip install -U mkdocs-simple-blog
+      - run: py -m pip install mkdocs-material
+      - run: py -m pip install mkdocs-roamlinks-plugin
+      - run: py -m pip install mkdocs-mermaid2-plugin
       - run: mkdocs gh-deploy --force
 

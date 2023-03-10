@@ -10,6 +10,8 @@
 ### Technology
 - [[介绍Obsidian]]
 
-## Life Experiences
+## Life
 - [[LeavingTheChurch]]
 - [[俄乌战争谣言系列]]
+- [[抑郁症过程]]
+- [[WaterColorLog]]

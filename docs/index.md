@@ -2,7 +2,7 @@
 
 ## Reading Notes & Comments
 ### Religion & Spirituality
- - [[Combating-mind-control]]
+ -[[CombatingTheCultMindControl]]
  - [[TheHeartofChristianity]]
  - [[GoodLand]]
  - [[TheRoadLessTraveled]]

@@ -8,8 +8,8 @@ theme:
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
-        text: Noto Sans Display 
-        code: Playfair Display
+        text: Playfair Display 
+        code: Noto Sans Display
     language: en
     palette:
 

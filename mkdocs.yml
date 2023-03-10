@@ -8,8 +8,8 @@ theme:
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
-        text: Playfair Display 
-        code: Noto Sans Display
+        text: Georgia  
+        code: Roboto Mono
     language: en
     palette:
 

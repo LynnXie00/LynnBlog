@@ -1,4 +1,5 @@
-# Cult or not? - Reading Combating the Cult Mind Control
+# Cult or not? - Reading <Combating the Cult Mind Control>
+
 [Combatting Cult Mind Control: The #1 Best-selling Guide to Protection, Rescue, and Recovery from Destructive Cults](https://www.goodreads.com/book/show/173711.Combatting_Cult_Mind_Control)
 [![Combatting Cult Mind Control: The #1 Best-selling Guide to Protection, Rescue, and Recovery from Destructive Cults](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364138334l/173711._SX98_.jpg)](https://www.goodreads.com/book/show/173711.Combatting_Cult_Mind_Control)
 

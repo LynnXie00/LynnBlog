@@ -1,5 +1,7 @@
 # Home
 
+![|200](https://i.imgur.com/Qbo7Cjn.png)
+
 My name is Lynn. Welcome to my blog site. I share random thoughts and notes. 
 
 |       中文内容       |         English Content         |

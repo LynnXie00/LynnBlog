@@ -45,8 +45,8 @@ There are also :
 
 - `SEO` (_`string`_): Link to your default image displayed by the SEO.
 - `comments` (_`boolean`_) : Allow the comments block at the end of the page
-- `generate_graph` (_`boolean`_): Generate the [[customization#Graph view|graph view]]
-- `attachments` (_`boolean`_): For [[configuration#Blog list (article listing)]] and image in SEO. Change it according to your Obsidian Plugin settings.
+- `generate_graph` (_`boolean`_): Generate the [graph view](customization#Graph%20view)
+- `attachments` (_`boolean`_): For [configuration > Blog list (article listing)](configuration#Blog%20list%20(article%20listing)) and image in SEO. Change it according to your Obsidian Plugin settings.
 
 #### Blog list (article listing)
 

@@ -1,26 +1,13 @@
 # Home
 
-# 中文内容
-## 日常
-- [[俄乌战争谣言系列]]
-- [[抑郁症过程]]
-- 
-## 游戏攻略
+My name is Lynn. Welcome to my blog site. I share random thoughts and notes. 
 
-## 教程
-- [[介绍Obsidian]]
+| 中文内容             | English Content                 |
+| -------------------- | ------------------------------- |
+| [[俄乌战争谣言系列]] | [[CombatingTheCultMindControl]] |
+| [[抑郁症过程]]       | [[TheHeartofChristianity]]      |
+| [[介绍Obsidian]]     | [[GoodLand]]                    |
+| [[WaterColorLog]]    | [[TheRoadLessTraveled]]         |
+| [[侠客行第三之书]]                     | [[LeavingTheChurch]]            |
 
-# English Content
-
-## Reading Notes & Comments
-### Religion & Spirituality
- - [[CombatingTheCultMindControl]]
- - [[TheHeartofChristianity]]
- - [[GoodLand]]
- - [[TheRoadLessTraveled]]
-
-
-## Life
-- [[LeavingTheChurch]]
-- [[WaterColorLog]]
 

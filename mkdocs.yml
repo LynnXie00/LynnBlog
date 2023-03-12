@@ -36,9 +36,12 @@ theme:
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.expand
+        - navigation.sections
+        - navigation.tracking
         - search.suggest
         - search.highlight
-        
+        - toc.follow
+        - toc.integrate
 # Extensions
 markdown_extensions:
   - footnotes

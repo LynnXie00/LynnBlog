@@ -12,7 +12,7 @@ I found a really nice watercolor tutorial Youtuber [Allison Lyon Art](https://ww
 
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/unknown.png?w=286)
 
-![type:video](https://www.youtube.com/watch?v=zTMPrmgI2hw)
+![type:video](https://www.youtube.com/embed/zTMPrmgI2hw)
 
 
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/unknown2.png?w=300)
@@ -22,21 +22,21 @@ I found a really nice watercolor tutorial Youtuber [Allison Lyon Art](https://ww
 
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/unknown1.png?w=300)
 
-![type:video](https://www.youtube.com/watch?v=FaHRTyyTJt4)
+![type:video](https://www.youtube.com/embed/FaHRTyyTJt4)
 
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/image0.jpg?w=300)
 
-![type:video](https://www.youtube.com/watch?v=W2gk4npK-s0&list=PLbpzd3P9XKZD7mUKHfsW9zM_zgabig65c&index=9 )
+![type:video](https://www.youtube.com/embed/W2gk4npK-s0 )
 
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/snipaste_2021-08-15_22-28-17.png?w=276)
 
-![type:video](\https://www.youtube.com/watch?v=AJevEIsaFbg )
+![type:video](\https://www.youtube.com/embed/AJevEIsaFbg )
 
 
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/snapseed.jpg?w=300)
 
 
-![type:video](https://www.youtube.com/watch?v=7apT9QXkcY)
+![type:video](https://www.youtube.com/embed/7apT9QXkcY)
 
 
 

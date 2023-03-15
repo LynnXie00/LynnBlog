@@ -30,7 +30,7 @@ I found a really nice watercolor tutorial Youtuber [Allison Lyon Art](https://ww
 
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/snipaste_2021-08-15_22-28-17.png?w=276)
 
-![type:video](\https://www.youtube.com/embed/AJevEIsaFbg )
+![type:video](https://www.youtube.com/embed/AJevEIsaFbg )
 
 
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/snapseed.jpg?w=300)

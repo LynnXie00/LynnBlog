@@ -2,7 +2,7 @@
 Starting from this summer I started doing some watercolor painting. Since I have no intention to become an expert, I simply purchased a two-dollar watercolor plate in Kroger:
 
 
-![type:video](https://www.youtube.com/watch?v=7apT9QXkcYo)
+![type:video](https://www.youtube.com/embed/7apT9QXkcYo)
 
 
 
@@ -18,7 +18,7 @@ I found a really nice watercolor tutorial Youtuber [Allison Lyon Art](https://ww
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/unknown2.png?w=300)
 
 
-![type:video](https://www.youtube.com/watch?v=VFzYMSy1xOc)
+![type:video](https://www.youtube.com/embed/VFzYMSy1xOc)
 
 ![](https://theorchidgardenofseeking.files.wordpress.com/2021/08/unknown1.png?w=300)
 

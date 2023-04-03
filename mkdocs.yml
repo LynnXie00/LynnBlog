@@ -107,7 +107,7 @@ plugins:
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
   - tags:
-      tags_file: tags.
+      tags_file: tags.md
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:

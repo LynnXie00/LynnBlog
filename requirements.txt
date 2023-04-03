@@ -19,3 +19,4 @@ pillow==9.5.0
 mkdocs-glightbox==0.3.2
 mkdocs-video
 mkdocs-minify-plugin==0.6.4
+mkdocs-rss-plugin

@@ -96,6 +96,7 @@ plugins:
       enable_creation_date: true
   - ezlinks:
         wikilinks: true
+  - optimize 
   - mermaid2:
       arguments:
         theme: |
@@ -154,6 +155,12 @@ extra:
   - icon: fontawesome/solid/paper-plane
     link: mailto:xietianling00@gmail.com
     name: Email Me
+  - icon: fontawesome/brands/github
+    link: https://github.com/LynnXie00
+    name: Github 
+  - icon: fontawesome/brands/bilibili
+    link: https://space.bilibili.com/3174521?spm_id_from=333.1007.0.0
+    name: Bilibili
   comments: true 
   generate_graph: true #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored

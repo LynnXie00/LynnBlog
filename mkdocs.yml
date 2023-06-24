@@ -44,7 +44,7 @@ theme:
         - search.suggest
         - search.highlight
         - toc.follow
-        - toc.integrate
+      
 # Extensions
 markdown_extensions:
   - attr_list

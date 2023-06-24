@@ -2,7 +2,7 @@
 ## 书单
 ### 从原生家庭中恢复
 
-![](https://i.imgur.com/oWsmaIq.png)
+![](99%20Blogs/LynnBlog/docs/Readings/2bf7e7926a48adc5f0d9eb42aa58d752_MD5.png)
  来源（推特@summerpeach0528）
 ===
 

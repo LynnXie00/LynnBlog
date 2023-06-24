@@ -1,6 +1,6 @@
 # A Shift in Faith Paradigm - Reading *The Heart of Christianity*
 [The Heart of Christianity: Rediscovering a Life of Faith](https://www.goodreads.com/book/show/76402.The_Heart_of_Christianity) by [Marcus J. Borg(https://www.goodreads.com/author/show/22721.Marcus_J_Borg)
-![|200](https://i.imgur.com/bbVRNrZ.jpg)
+![|200](99%20Blogs/LynnBlog/docs/Readings/Spirituality/eac9b94c90d47279a28a3093e0f542ec_MD5.jpg)
 
 
 At the current phase of my faith journey, I really feel I need to change my paradigm of reading the bible and following my God, seeing the examples in the churches I encountered in the past. Taking the Bible verses out of context or, literally, word for word as some magical chant is not working for me anymore. It leads to a rigid way of believing that block people from seeing people first but hold onto religious teachings.

@@ -336,7 +336,7 @@ description: 'The Mindset Mentor™ podcast is designed for anyone desiring moti
 url: 'https://podcasts.google.com?feed=aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvOWI3ZGFjZGYtYTkyNS00Zjk1LTg0ZGMtYWM0NjAwMzQ1MWZmLzVjZDc0MTNjLWIzNDEtNDkzZi1iZjQ2LWFjYjUwMDM2NDE0MS82YjI1NDBkNC1lMGIyLTQyZjctYTYxYS1hY2I1MDAzNjQxNWEvcG9kY2FzdC5yc3M%3D&episode=OGYyZDYxNWUtYmFlMy00ZGEwLTkwMjEtYWQ5NDAwNDUzOThj'
 ```
 ### 【认知扭曲】
-![](https://i.imgur.com/XLOx9Uu.png)
+![](99%20Blogs/LynnBlog/docs/Readings/1131da0e4d7d271fd62d8a78d922c417_MD5.png)
 
 
 ## 内卷文化
@@ -374,7 +374,7 @@ url: 'https://podcasts.google.com?feed=aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2Qvc
 ### 【何必着急】
 > [!NOTE]
 > 
-> ![](https://i.imgur.com/9iFYxyx.png)
+> ![](99%20Blogs/LynnBlog/docs/Readings/474040d8832d371e87141a592e599ebc_MD5.png)
 > 哦，何必着急……
 > 我们需要很长的时间来清理情感的废墟。
 > 我们需要很长的时间来卸下心灵的武装。

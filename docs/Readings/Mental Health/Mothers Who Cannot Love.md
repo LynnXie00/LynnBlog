@@ -2,7 +2,7 @@
 #mentalHealth #心理健康 #原生家庭
 
 
-![|200](https://i.imgur.com/bAapz5p.jpg)
+![|200](99%20Blogs/LynnBlog/docs/Readings/Mental%20Health/10c6ee4353711253016a177671870c95_MD5.jpg)
 [Goodreads](https://www.goodreads.com/book/show/17331330-mothers-who-can-t-love)
 I started reading this book when I again failed to persuade my mom about my career decisions. Technically, I don't have to persuade her: it's my own decision, my own life. But whenever I talk to my mother, she will introduce this topic, and make me feel that I have done something severely damaging to my life and to her life, by making the current decision. "You will suffer" and "you abandon me" are the two weapons my mother has. I don't want her to feel that way, but I am not responsible for her happiness, if she doesn't want to be happy.
 

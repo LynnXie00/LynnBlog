@@ -1,7 +1,7 @@
 # Cult or not? - Reading *Combating the Cult Mind Control*
 
 [Combatting Cult Mind Control: The #1 Best-selling Guide to Protection, Rescue, and Recovery from Destructive Cults](https://www.goodreads.com/book/show/173711.Combatting_Cult_Mind_Control)
-[![Combatting Cult Mind Control: The #1 Best-selling Guide to Protection, Rescue, and Recovery from Destructive Cults](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364138334l/173711._SX98_.jpg)](https://www.goodreads.com/book/show/173711.Combatting_Cult_Mind_Control)
+[![Combatting Cult Mind Control: The #1 Best-selling Guide to Protection, Rescue, and Recovery from Destructive Cults](99%20Blogs/LynnBlog/docs/Readings/Spirituality/e80c0fb2541d30b2335f31e32a6e4909_MD5.jpg)](https://www.goodreads.com/book/show/173711.Combatting_Cult_Mind_Control)
 
 
 I'm trying to reflect on my own church experience as I read through this book. The church I went to is a nondenominational church. They met from house to house. They had their own Bible. They had a very large amount of internal literature written by past leaders, I've been wondering a lot: are they cult or not?  

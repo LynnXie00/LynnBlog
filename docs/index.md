@@ -1,6 +1,6 @@
 # Home
 
-![|200](https://i.imgur.com/Qbo7Cjn.png)
+![|200](99%20Blogs/LynnBlog/docs/015d4cf708a4bc8ef2224b9e12e33ecd_MD5.png)
 
 My name is Lynn. Welcome to my blog site. I share random thoughts and notes. 
 

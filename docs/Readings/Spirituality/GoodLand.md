@@ -1,6 +1,6 @@
 # Where's God in the God's Land - Reading *God Land*
 [God Land](https://www.goodreads.com/book/show/41707938-god-land?ref=nav_sb_ss_2_8)
-![|200](https://i.imgur.com/mJzsnhJ.jpg)
+![|200](99%20Blogs/LynnBlog/docs/Readings/Spirituality/c013fe98b4c7551ea3962ea0cd27bd0f_MD5.jpg)
 
 This book makes me love the genre "memoirs". It is a book full of pains, disappointments, and confusions about church and faith in America, with an interesting context: after Trump got elected as the President. I would call it "traumatic writing" because I feel the author is basically licking her wounds.  
   

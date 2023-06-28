@@ -1,6 +1,6 @@
 # The Narrow Door, the Path Less Followed - Reading *The Road Less Traveled*
 [The road less traveled] (https://www.goodreads.com/book/show/347852.The_Road_Less_Traveled?ref=nav_sb_ss_4_8)
-![|200](99%20Blogs/LynnBlog/docs/Readings/Spirituality/74dd3d7521dbc56e8cee0167574d6822_MD5.jpg)
+![|200](74dd3d7521dbc56e8cee0167574d6822_MD5.jpg)
 
 The theme of this book is to introduce us a "road less traveled": the journey of spiritual growth. It's a path that requires one to constantly revise his or her understanding of the world, to update one's "cognitive map". This process of abandoning the old identity and gaining the new one will inevitably involve pain, but the pain is a normal state of life, and discipline, to forebear the pain for the good, is the approach to spiritual growth. He believes that life is like problem-solving, by embracing the challenge and take difficulties as normal, one will no longer complain about life but progress further in the spiritual path.  
   

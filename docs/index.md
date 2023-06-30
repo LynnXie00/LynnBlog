@@ -1,6 +1,6 @@
 # Home
 
-![|200](015d4cf708a4bc8ef2224b9e12e33ecd_MD5.png)
+![|200](_media/015d4cf708a4bc8ef2224b9e12e33ecd_MD5.png)
 
 My name is Lynn. Welcome to my blog site. I share random thoughts and notes. 
 

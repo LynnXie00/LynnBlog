@@ -1,3 +1,9 @@
+---
+tags:
+  - Video Editing
+  - Entertainment
+---
+
 # Mini-series according to the book -如果长月烬明按原著拍
 
 I'm a fan of the novel that this drama is adapted from. I'm not super fond of the way the drama is made so I'm re-editing it according to the novel. It's okay if you never watched this show, since I'm technically making it into a mini drama. 我读完小说很喜欢, 觉得这部剧很可惜，完全就毁在编剧和剪辑上了，其实演员的颜值演技和服装美术总体问题都不大。所以趁着周末一时兴起想用短剧的方式重新打开这部剧，删去那些编剧作死的有的没的剧情，重新带大家看看原著里面的各个角色是怎样的。 已经在有限素材下尽可能往原著方向贴了，完全一样是不太可能……

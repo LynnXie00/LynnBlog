@@ -5,6 +5,7 @@ tags:
   - Elona
   - 伊洛娜
 ---
+# Elona 伊洛娜 （目前在玩这个）
 这是一款超高自由度的文件极小的RPG游戏。（不是手游，手游很不一样）
 
 # 资源
@@ -14,7 +15,7 @@ tags:
 ## 下载
 ### 游戏本体
 游戏本体可从[官网](http://ylvania.style.coocan.jp/index_e.html)下载（有日文和英文旧版本)
-	- 或者从我的Google Drive下载，有两个版本，稳定版和开发版。建议用稳定版，因为我在开发版里面遇到过bug...
+	- 或者从[我的Google Drive](https://drive.google.com/drive/folders/1PS2Oj3zgIn9_DPwHRu2qBoM3OOg5a82M?usp=sharing)下载，有两个版本，稳定版(1.16)和开发版(1.22)。建议用稳定版，因为我在开发版里面遇到过bug...
 	- 同时，对画面和音乐有高要求的玩家，可以下载音乐包Elona mp3和美化包Elona Graphic Pack 。音乐包下载后解压，把mp3文件复制到游戏目录的user/music 下；美化包解压后，把graphic文件夹直接复制到游戏目录覆盖。
 
 ### 游戏变体

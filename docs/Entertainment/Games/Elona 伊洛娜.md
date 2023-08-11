@@ -11,6 +11,7 @@ tags:
 # 网络资源
 1. Elona 英文wiki（[链接](https://elona.fandom.com/wiki/Elona_Wiki)）
 2. Elona 中文wiki（[链接](https://elona.huijiwiki.com/wiki/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2)）
+3. 一套不错的油管入门教程视频 （[链接](https://www.youtube.com/watch?v=yq5T78qFWxI&list=PLjMGkQw8fk9zygZzo7-8c82rXZxvwfmr4&index=1)）
 
 # 下载
 ## 游戏本体
@@ -99,44 +100,12 @@ S- save 存档
 
 ###  Port Kapul
 
-	
-
 # 物品
-‘详见：https://elona.fandom.com/wiki/Item_table
+详见：https://elona.fandom.com/wiki/Item_table
 
 # 赚钱的方式
 
 ## 倒卖物资
 详见 Cargo https://elona.fandom.com/wiki/Cargo?so=search#Elona+
 我自己整理表格：
-
-| Cargo          | City       | Buying Price | Selling Price | Note |
-| -------------- | ---------- | ------------ | ------------- | ---- |
-| Canvas         | Palmia     |              | 627           |      |
-| Canvas         | Palmia     | 836          |               |      |
-| Canvas         | Port Kapul |              | 1534          |      |
-| Canvas         | Noyel      |              | 1204          |      |
-| Christmas Tree | Noyel      | 7000         |               |      |
-| Grave          | Port Kapul | 9922         |               |      |
-| Inner Tube     | Noyel      |              | 171           |      |
-| Inner Tube     | Port Kapul | 88           |               |      |
-| Manboo         | Port Kapul | 1713         |               |      |
-| Manboo         | Palmia     | 4569         |               |      |
-| Mario          | Port Kapul | 1472         |               |      |
-| Mario          | Palmia     | 1472         |               |      |
-| Piano          | Port Kapul | 14729        |               |      |
-| Rag Doll       | Palmia     | 919          |               |      |
-| Ration         | Port Kapul | 142          |               |      |
-| Ration         | Noyel      |              | 115           |      |
-| Ration         | Noyel      | 154          |               |      |
-| Rope           | Port Kapul | 436          |               |      |
-| Rope           | Palmia     | 732          |               |      |
-| Snowman        | Palmia     |              | 2103          |      |
-| Snowman        | Port Kapul |              | 2475          |      |
-| Snowman        | Noyel      | 1155         |               |      |
-| Tuna           | Port Kapul | 562          |               |      |
-| Tuna           | Noyel      |              | 1386          |      |
-| Whisky         | Palmia     | 3484         | 2613          |      |
-| Whisky         | Palmia     | 3088         |               |      |
-| Whisky         | Noyel      |              | 2613          |      |
-| Whisky         | Port Kapul |              | 2613          |      |
+https://docs.google.com/spreadsheets/d/1Y5wS1-dMYrahLXaMfYWM6-T6tUvZpEqvPxycDjUXKdo/edit?usp=sharing
